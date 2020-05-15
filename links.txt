@@ -1,10 +1,18 @@
-APPS:
+APPS unity C# / JAVA:
 https://play.google.com/store/apps/details?id=com.ZwolloGames.BananaClicker
 https://play.google.com/store/apps/details?id=com.zwollo.qrcodescan
 https://play.google.com/store/apps/details?id=com.ZwolloGames.Fall
 
 C# opdrachten:
-dit moet nog ingevuld worden
+Oefening 4-1     Om deel te nemen aan de spelen van de Nationale Postcode Loterij moet je minimum 18 jaar oud zijn. Ontwerp een consoletoepassing waarmee je de leeftijd van de gebruiker opvraagt. Als de ingevoerde leeftijd minimum 18 jaar bedraagt, krijgt de gebruiker toegang tot de site van de loterij en verschijnt de tekst: “Je bent x jaar oud. Je mag deelnemen aan de spelen van de Nationale Postcode Loterij.”. Indien niet voldaan is aan deze voorwaarde verschijnt de tekst: “Om deel te nemen aan de spelen van de Nationale Postcode Loterij moet je minimum 18 jaar oud zijn.”.
+Oefening 4-2     Ontwerp een console toepassing waarmee de van eigenaar van een schoenwinkel het totaal te betalen bedrag kan berekenen. Als je 2 of meer paar schoenen koopt, dan krijg je 25 % korting. Een paar schoenen kost 100 EUR.
+Oefening 4-3     Tegen het eind van het verkoop seizoen van de schoenwinkel geeft deze speciale kortingen. Ontwerp een consoletoepassing waarmee de verkoper van een schoenwinkel het totaal te betalen bedrag kan berekenen. Als je één paar schoenen koopt, krijg je 20 % korting, bij de aankoop van 2 paar schoenen krijg je 40% korting en bij aankoop van meer dan twee paar schoenen zelfs 60 % korting. Een paar schoenen kost 125 EUR.
+Oefening 4-4     Ontwerp een consoletoepassing waarmee je aan de gebruiker het resultaat van 5 examens opvraagt. De opgevraagde resultaten zijn de behaalde punten op 100. De student is geslaagd als hij hoogstens 1 onvoldoende heeft en een gemiddelde van minstens 50 % behaalde.
+Oefening 4-5     Ontwerp een consoletoepassing die het overeenkomstige kwartaal van een ingegeven datum weergeeft.
+Oefening 4-6     Ontwerp een consoletoepassing waarmee je op basis van de taalkeuze de tekst “Tot ziens” in de gekozen taal weergeeft. Doe dit voor Nederlands, Engels, Frans en Duits.
+Oefening 4-7     Indien een klant betaalt binnen de 10 dagen na factuurdatum dan krijgt de klant 2 %  korting. Ontwerp een consoletoepassing waarin de handelaar het bedrag exclusief BTW (21 %) en het aantal dagen na factuurdatum waarop de factuur betaald is, ingeeft. In de console verschijnt dan:
+
+^deze opdrachten en meerdere opdrachten zijn gemaakt^
 
 PHP Cinema7:
 https://drive.google.com/open?id=1M7RzFZkPd3zdPgbaFBx8DbVAQ6JQHvIg
@@ -15,6 +23,7 @@ https://pastebin.com/wSMBhnbR
 https://pastebin.com/FVqDsX8u
 https://pastebin.com/XG7717nH
 https://pastebin.com/n6wK8YPi
+https://pastebin.com/qHi45ihg
 
 Javascript Website(proto type)
 
