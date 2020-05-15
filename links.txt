@@ -1,0 +1,17 @@
+APPS:
+https://play.google.com/store/apps/details?id=com.ZwolloGames.BananaClicker
+https://play.google.com/store/apps/details?id=com.zwollo.qrcodescan
+https://play.google.com/store/apps/details?id=com.ZwolloGames.Fall
+
+C# opdrachten:
+
+
+PHP Cinema7:
+
+
+Pyhton:
+
+
+Javascript Website(proto type)
+
+
